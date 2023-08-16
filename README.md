@@ -1,4 +1,4 @@
-### **JJVACOST/JJVACOST**
+### **JJVACOST/ Jhon Vargas**
 
 - 🔭 I’m currently working on DataLytics
 - 🌱 I’m currently learning Web Developer Full Stack
